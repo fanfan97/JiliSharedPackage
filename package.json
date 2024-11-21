@@ -1,7 +1,15 @@
 {
   "name": "JiliSharedPackage",
+  "version": "1.0.0",
   "uuid": "a8048f11-fae7-4a7e-93a4-19b10baee775",
   "creator": {
     "version": "3.8.3"
-  }
+  },
+  "author": "Code9-FE",
+  "license": "MIT",
+  "main": "index.ts",
+  "files": [
+    "assets/scripts",
+    "index.ts"
+  ]
 }
